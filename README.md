@@ -155,8 +155,4 @@ El proyecto incluye configuración para GitHub Actions que automatiza:
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## Contacto
-
-Equipo de Desarrollo - desarrollo@example.com
-
 Link del Proyecto: [https://github.com/tu-usuario/product-service](https://github.com/tu-usuario/product-service)
